@@ -1,0 +1,2 @@
+# Tech_SphericalProjection
+VRコンテンツにおける安定した輪郭線描画手法の検証デモプロジェクトです。
